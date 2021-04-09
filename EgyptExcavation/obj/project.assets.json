@@ -8768,27 +8768,44 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
+    "C:\\Users\\jonah\\.nuget\\packages\\": {}
+=======
     "C:\\Users\\Brandon\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+>>>>>>> e9346f0b83a8c0a2e6191b8fa18c4dd546f8f6b1
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\jonah\\Desktop\\IS_Group\\Intex2\\EgyptExcavation\\EgyptExcavation.csproj",
+      "projectName": "EgyptExcavation",
+      "projectPath": "C:\\Users\\jonah\\Desktop\\IS_Group\\Intex2\\EgyptExcavation\\EgyptExcavation.csproj",
+      "packagesPath": "C:\\Users\\jonah\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jonah\\Desktop\\IS_Group\\Intex2\\EgyptExcavation\\obj\\",
+=======
       "projectUniqueName": "C:\\Users\\Brandon\\Source\\Repos\\jonahduffin\\Intex2\\EgyptExcavation\\EgyptExcavation.csproj",
       "projectName": "EgyptExcavation",
       "projectPath": "C:\\Users\\Brandon\\Source\\Repos\\jonahduffin\\Intex2\\EgyptExcavation\\EgyptExcavation.csproj",
       "packagesPath": "C:\\Users\\Brandon\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Brandon\\Source\\Repos\\jonahduffin\\Intex2\\EgyptExcavation\\obj\\",
+>>>>>>> e9346f0b83a8c0a2e6191b8fa18c4dd546f8f6b1
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
+        "C:\\Users\\jonah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
         "C:\\Users\\Brandon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+>>>>>>> e9346f0b83a8c0a2e6191b8fa18c4dd546f8f6b1
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -8812,6 +8829,8 @@
     "frameworks": {
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
+<<<<<<< HEAD
+=======
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -8838,6 +8857,7 @@
             "version": "[3.1.5, )"
           }
         },
+>>>>>>> e9346f0b83a8c0a2e6191b8fa18c4dd546f8f6b1
         "imports": [
           "net461",
           "net462",
@@ -8856,7 +8876,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+=======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+>>>>>>> e9346f0b83a8c0a2e6191b8fa18c4dd546f8f6b1
       }
     }
   }

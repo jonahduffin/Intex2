@@ -1,0 +1,4 @@
+*.dtncache.v2
+*.cache
+*.pdb
+*.dll
