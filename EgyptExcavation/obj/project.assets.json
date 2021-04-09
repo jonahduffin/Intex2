@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\macbook\\.nuget\\packages\\": {}
+    "C:\\Users\\jonah\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\macbook\\Source\\Repos\\Intex2\\EgyptExcavation\\EgyptExcavation.csproj",
+      "projectUniqueName": "C:\\Users\\jonah\\Desktop\\IS_Group\\Intex2\\EgyptExcavation\\EgyptExcavation.csproj",
       "projectName": "EgyptExcavation",
-      "projectPath": "C:\\Users\\macbook\\Source\\Repos\\Intex2\\EgyptExcavation\\EgyptExcavation.csproj",
-      "packagesPath": "C:\\Users\\macbook\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\macbook\\Source\\Repos\\Intex2\\EgyptExcavation\\obj\\",
+      "projectPath": "C:\\Users\\jonah\\Desktop\\IS_Group\\Intex2\\EgyptExcavation\\EgyptExcavation.csproj",
+      "packagesPath": "C:\\Users\\jonah\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jonah\\Desktop\\IS_Group\\Intex2\\EgyptExcavation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\macbook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jonah\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -61,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
